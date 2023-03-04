@@ -1,0 +1,26 @@
+.wrapper {
+  max-width: 1000px;
+  margin: 50px auto;
+  background-color: #fdd496;
+}
+.wrapper h1 {
+  padding: 20px 0;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "jsMath-cmr10";
+}
+.project {
+  display: flex;
+}
+
+.pay {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  width: 400px;
+  background-color: #ffffff;
+  margin-left: 300px;
+  border-radius: 50px;
+  text-decoration: #fdd496;
+  font-family: "jsMath-cmr10";
+}
